@@ -15,19 +15,7 @@
         - 본인이 활용한 CLI의 화면을 캡쳐하여 추가합니다.
         - 퀘스트시 활용하는 PRT는 근거이미지를 첨부해야 하니 꼭 수행하세요 :)
     - 변경사항을 반영하여 push합니다.
-      - branch명은 본인이 할당받은 폴더 명으로 설정합니다.(user01, user02, ...)
-      ```bash
-      # branch 생성
-      # git checkout -b 브랜치명
-      git checkout -b user01
-  
-      #branch 변경
-      # git checkout 브랜치명
-      git checkout user01
-  
-      # branch 확인
-      git branch
-      ```
+
 5. 변경사항을 반영하여 Pull-Request를 보냅니다.
 
 
